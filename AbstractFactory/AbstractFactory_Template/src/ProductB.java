@@ -1,2 +1,2 @@
-public abstract class ProductB {
+public interface ProductB {
 }

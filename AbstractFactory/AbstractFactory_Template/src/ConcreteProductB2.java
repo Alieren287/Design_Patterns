@@ -1,2 +1,2 @@
-public class ConcreteProductB2 extends ProductB {
+public class ConcreteProductB2 implements ProductB {
 }
