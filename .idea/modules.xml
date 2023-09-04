@@ -4,7 +4,9 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/AbstractFactory/AbstractFactory_Template/AbstractFactory_Template.iml" filepath="$PROJECT_DIR$/AbstractFactory/AbstractFactory_Template/AbstractFactory_Template.iml" />
       <module fileurl="file://$PROJECT_DIR$/Adapter/Adapter_Template/Adapter_Template.iml" filepath="$PROJECT_DIR$/Adapter/Adapter_Template/Adapter_Template.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Bridge/Bridge_Template/Bridge_Template.iml" filepath="$PROJECT_DIR$/Bridge/Bridge_Template/Bridge_Template.iml" />
       <module fileurl="file://$PROJECT_DIR$/Design_Patterns.iml" filepath="$PROJECT_DIR$/Design_Patterns.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Bridge/Device_Example/Device_Example.iml" filepath="$PROJECT_DIR$/Bridge/Device_Example/Device_Example.iml" />
       <module fileurl="file://$PROJECT_DIR$/Factory/Dialog_Example/Dialog_Example.iml" filepath="$PROJECT_DIR$/Factory/Dialog_Example/Dialog_Example.iml" />
       <module fileurl="file://$PROJECT_DIR$/Factory/Factory_Template/Factory_Template.iml" filepath="$PROJECT_DIR$/Factory/Factory_Template/Factory_Template.iml" />
       <module fileurl="file://$PROJECT_DIR$/AbstractFactory/GUI_Example/GUI_Example.iml" filepath="$PROJECT_DIR$/AbstractFactory/GUI_Example/GUI_Example.iml" />
