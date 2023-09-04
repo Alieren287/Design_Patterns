@@ -1,5 +1,3 @@
-import java.rmi.Remote;
-
 public class Client {
 
     public static void main(String[] args) {
