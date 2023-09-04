@@ -6,7 +6,9 @@ public class Abstraction {
     }
 
     public void feature1() {
+        i.method1();
     }
     public void feature2(){
+        i.method2();
     }
 }
