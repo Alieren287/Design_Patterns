@@ -1,8 +1,8 @@
 public class Abstraction {
-    Implementation implementation;
+    Implementation i;
 
-    public Abstraction(Implementation implementation) {
-        this.implementation = implementation;
+    public Abstraction(Implementation i) {
+        this.i = i;
     }
 
     public void feature1() {
