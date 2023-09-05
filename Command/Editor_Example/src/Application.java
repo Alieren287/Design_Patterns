@@ -35,7 +35,6 @@ public class Application {
 
         return copyCommand;
     }
-
     public Command function1() {
         CutCommand cutCommand = new CutCommand(this, activeEditor);
         executeCommand(cutCommand);
