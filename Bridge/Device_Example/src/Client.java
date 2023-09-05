@@ -2,7 +2,7 @@ public class Client {
 
     public static void main(String[] args) {
         Tv tv = new Tv();
-        RemoteControl remote1 = new RemoteControl(tv);
+        AdvancedRemoteControl remote1 = new AdvancedRemoteControl(tv);
         remote1.togglePower();
 
         Radio radio = new Radio();

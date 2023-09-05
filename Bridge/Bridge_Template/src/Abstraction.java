@@ -1,4 +1,4 @@
-public class Abstraction {
+public abstract class Abstraction {
     Implementation i;
 
     public Abstraction(Implementation i) {

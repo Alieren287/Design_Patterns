@@ -1,4 +1,4 @@
-public class RemoteControl {
+public abstract class RemoteControl {
     protected Device device;
 
     void togglePower() {
