@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Dialog_Example/Dialog_Example.iml" filepath="$PROJECT_DIR$/Dialog_Example/Dialog_Example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Factory.iml" filepath="$PROJECT_DIR$/.idea/Factory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Factory_Template/Factory_Template.iml" filepath="$PROJECT_DIR$/Factory_Template/Factory_Template.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Logistics_Example/Logistics_Example.iml" filepath="$PROJECT_DIR$/Logistics_Example/Logistics_Example.iml" />
+    </modules>
+  </component>
+</project>
