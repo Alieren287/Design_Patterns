@@ -6,15 +6,17 @@
       <module fileurl="file://$PROJECT_DIR$/Adapter/Adapter_Template/Adapter_Template.iml" filepath="$PROJECT_DIR$/Adapter/Adapter_Template/Adapter_Template.iml" />
       <module fileurl="file://$PROJECT_DIR$/Bridge/Bridge_Template/Bridge_Template.iml" filepath="$PROJECT_DIR$/Bridge/Bridge_Template/Bridge_Template.iml" />
       <module fileurl="file://$PROJECT_DIR$/ChainOfResponsibility/ChainOfResponsibility_Template/ChainOfResponsibility_Template.iml" filepath="$PROJECT_DIR$/ChainOfResponsibility/ChainOfResponsibility_Template/ChainOfResponsibility_Template.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Command/Command_Template/Command_Template.iml" filepath="$PROJECT_DIR$/Command/Command_Template/Command_Template.iml" />
       <module fileurl="file://$PROJECT_DIR$/ChainOfResponsibility/Component_Example/Component_Example.iml" filepath="$PROJECT_DIR$/ChainOfResponsibility/Component_Example/Component_Example.iml" />
       <module fileurl="file://$PROJECT_DIR$/Design_Patterns.iml" filepath="$PROJECT_DIR$/Design_Patterns.iml" />
       <module fileurl="file://$PROJECT_DIR$/Bridge/Device_Example/Device_Example.iml" filepath="$PROJECT_DIR$/Bridge/Device_Example/Device_Example.iml" />
       <module fileurl="file://$PROJECT_DIR$/Factory/Dialog_Example/Dialog_Example.iml" filepath="$PROJECT_DIR$/Factory/Dialog_Example/Dialog_Example.iml" />
       <module fileurl="file://$PROJECT_DIR$/Command/Editor_Example/Editor_Example.iml" filepath="$PROJECT_DIR$/Command/Editor_Example/Editor_Example.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Command/Command_Template/Command_Template.iml" filepath="$PROJECT_DIR$/Command/Command_Template/Command_Template.iml" />
       <module fileurl="file://$PROJECT_DIR$/Factory/Factory_Template/Factory_Template.iml" filepath="$PROJECT_DIR$/Factory/Factory_Template/Factory_Template.iml" />
       <module fileurl="file://$PROJECT_DIR$/AbstractFactory/GUI_Example/GUI_Example.iml" filepath="$PROJECT_DIR$/AbstractFactory/GUI_Example/GUI_Example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Iterator/Iterator_Template/Iterator_Template.iml" filepath="$PROJECT_DIR$/Iterator/Iterator_Template/Iterator_Template.iml" />
       <module fileurl="file://$PROJECT_DIR$/Factory/Logistics_Example/Logistics_Example.iml" filepath="$PROJECT_DIR$/Factory/Logistics_Example/Logistics_Example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Iterator/SocialNetwork_Example/SocialNetwork_Example.iml" filepath="$PROJECT_DIR$/Iterator/SocialNetwork_Example/SocialNetwork_Example.iml" />
       <module fileurl="file://$PROJECT_DIR$/Adapter/SquarePegAdapter_Example/SquarePegAdapter_Example.iml" filepath="$PROJECT_DIR$/Adapter/SquarePegAdapter_Example/SquarePegAdapter_Example.iml" />
     </modules>
   </component>
