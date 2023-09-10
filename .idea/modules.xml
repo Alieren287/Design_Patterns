@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/AbstractFactory/AbstractFactory_Template/AbstractFactory_Template.iml" filepath="$PROJECT_DIR$/AbstractFactory/AbstractFactory_Template/AbstractFactory_Template.iml" />
       <module fileurl="file://$PROJECT_DIR$/Adapter/Adapter_Template/Adapter_Template.iml" filepath="$PROJECT_DIR$/Adapter/Adapter_Template/Adapter_Template.iml" />
       <module fileurl="file://$PROJECT_DIR$/Bridge/Bridge_Template/Bridge_Template.iml" filepath="$PROJECT_DIR$/Bridge/Bridge_Template/Bridge_Template.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Builder/Builder_Template/Builder_Template.iml" filepath="$PROJECT_DIR$/Builder/Builder_Template/Builder_Template.iml" />
       <module fileurl="file://$PROJECT_DIR$/ChainOfResponsibility/ChainOfResponsibility_Template/ChainOfResponsibility_Template.iml" filepath="$PROJECT_DIR$/ChainOfResponsibility/ChainOfResponsibility_Template/ChainOfResponsibility_Template.iml" />
       <module fileurl="file://$PROJECT_DIR$/Command/Command_Template/Command_Template.iml" filepath="$PROJECT_DIR$/Command/Command_Template/Command_Template.iml" />
       <module fileurl="file://$PROJECT_DIR$/ChainOfResponsibility/Component_Example/Component_Example.iml" filepath="$PROJECT_DIR$/ChainOfResponsibility/Component_Example/Component_Example.iml" />
@@ -16,6 +17,8 @@
       <module fileurl="file://$PROJECT_DIR$/AbstractFactory/GUI_Example/GUI_Example.iml" filepath="$PROJECT_DIR$/AbstractFactory/GUI_Example/GUI_Example.iml" />
       <module fileurl="file://$PROJECT_DIR$/Iterator/Iterator_Template/Iterator_Template.iml" filepath="$PROJECT_DIR$/Iterator/Iterator_Template/Iterator_Template.iml" />
       <module fileurl="file://$PROJECT_DIR$/Factory/Logistics_Example/Logistics_Example.iml" filepath="$PROJECT_DIR$/Factory/Logistics_Example/Logistics_Example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Prototype/Prototype_Template/Prototype_Template.iml" filepath="$PROJECT_DIR$/Prototype/Prototype_Template/Prototype_Template.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Prototype/Shape_Example/Shape_Example.iml" filepath="$PROJECT_DIR$/Prototype/Shape_Example/Shape_Example.iml" />
       <module fileurl="file://$PROJECT_DIR$/Iterator/SocialNetwork_Example/SocialNetwork_Example.iml" filepath="$PROJECT_DIR$/Iterator/SocialNetwork_Example/SocialNetwork_Example.iml" />
       <module fileurl="file://$PROJECT_DIR$/Adapter/SquarePegAdapter_Example/SquarePegAdapter_Example.iml" filepath="$PROJECT_DIR$/Adapter/SquarePegAdapter_Example/SquarePegAdapter_Example.iml" />
     </modules>

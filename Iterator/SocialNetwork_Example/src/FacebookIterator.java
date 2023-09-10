@@ -17,17 +17,26 @@ public class FacebookIterator implements ProfileIterator {
 
     public void lazyInit() {
         if (cache == null) {
-
+            cache = facebook.socialGraphRequest(profileId, type);
         }
     }
 
     public Profile getNext() {
-        return cache[currentPosition+1];
+        if (hasMore()) {
+            Profile result = cache[currentPosition];
+            currentPosition++;
+            return result;
+        }
+        else {
+            System.out.println("There is no element next");
+            return null;
+        }
     }
 
     @Override
     public boolean hasMore() {
-        return false;
+        lazyInit();
+        return currentPosition < cache.length;
     }
 
 }

@@ -8,4 +8,8 @@ public class Facebook implements SocialNetwork {
     public ProfileIterator createCoworkersIterator(String profileId) {
         return new FacebookIterator(this, profileId, "friends");
     }
+
+    public Profile[] socialGraphRequest(String profileId, String type) {
+        return new Profile[]{new Profile(), new Profile()};
+    }
 }
